@@ -20,7 +20,7 @@ Reach me out / Onde me encontrar 👇🏼
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-domingos-de-lira-j%C3%BAnior-b36635142/)        ](https://www.linkedin.com/in/jos%C3%A9-domingos-de-lira-j%C3%BAnior-b36635142/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:domliraa@gmail.com)](mailto:domliraa@gmail.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:domliraa@gmail.com)](mailto:domliraa@gmail.com)
 
 <!--
 **nrdomlira/nrdomlira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
