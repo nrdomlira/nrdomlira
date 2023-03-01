@@ -1,5 +1,5 @@
 
-### Olá 👋, eu sou José Domingos, sou um estudante de informática focado em melhorar a vida das pessoas e um amante de jogos.
+### Olá 👋, eu sou José Domingos, sou Cientista da Computação focado em melhorar a vida das pessoas e um amante de jogos.
 
 
 Neste momento
@@ -8,7 +8,7 @@ Neste momento
 #
 
 
-### Hi 👋, 	I'm José Domingos, I am a computer science student focused on improving people's lives and a lover of games. 
+### Hi 👋, 	I'm José Domingos, I am a computer science focused on improving people's lives and a lover of games. 
 
 
 
