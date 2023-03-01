@@ -15,7 +15,7 @@ Neste momento
 #### At the moment
 - 🌱 I’m currently learning about the **front-end** universe, with a focus on the <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>  *ReactJS* + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="react" width="20" height="20"/> *Typescript* stack.
 
-Reach me out / Onde me encontrar 👇🏼
+👇 Reach me out / Onde me encontrar
 
 
 
